@@ -1,5 +1,3 @@
-## Does sensitivity analysis/numerical perturbation
-## of whatever parameters one chooses
 library(deSolve)
 library(rootSolve)
 
